@@ -1,0 +1,58 @@
+.herd {
+  width: 100%;
+  height: 200px;
+  background: black;
+}
+
+.back {
+  background: red;
+  color: white;
+  height: 84px;
+  font-size: 31px;
+}
+img {
+  width: 100%;
+}
+
+.dx {
+  display: flex;
+}
+
+.ai {
+  align-items: center;
+}
+
+.ju {
+  justify-content: center;
+}
+
+.list_img {
+  width: 100%;
+  height: 117px;
+  background: black;
+}
+
+.padd {
+  padding-top: 20px;
+}
+
+.list_text {
+  font-size: 25px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+}
+
+.list {
+  width: 100%;
+  height: 39px;
+}
+
+a {
+  color: rgba(0, 0, 0, 1);
+}
+
+.test {
+  letter-spacing: 3px;
+}
